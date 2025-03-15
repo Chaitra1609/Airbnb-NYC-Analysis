@@ -17,11 +17,12 @@ This project analyzes Airbnb listings in New York City using **SQL & Power BI** 
 ## 📊 Power BI Dashboard & Visuals  
 Below are some key visualizations from the **Power BI dashboard**:  
 
-![Pricing Trends] (Airbnb Listings & Availability Across NYC.png)
-*Figure: Pricing trends across different boroughs in NYC.*  
+![Airbnb Listings & Availability](https://github.com/Chaitra1609/Airbnb-NYC-Analysis/blob/main/Airbnb%20Listings%20&%20Availability%20Across%20NYC.png?raw=true)  
+*Figure: Distribution of Airbnb listings across different boroughs in NYC. The bubble size represents the average availability of listings, while colors indicate different room types.*  
 
-![Availability Map](Average Price by Neighborhood Group & Room Type.png)  
-*Figure: Geographic distribution of listings and their availability.*  
+![Average Price Map](https://github.com/Chaitra1609/Airbnb-NYC-Analysis/blob/main/Average%20Price%20by%20Neighborhood%20Group%20&%20Room%20Type.png?raw=true)  
+*Figure: Geographic distribution of listings and their average price across NYC. The visualization highlights price variations by room type and neighborhood group.*  
+  
 
 ## 📂 Dataset Information  
 - **Source:** Inside Airbnb ([http://insideairbnb.com/](http://insideairbnb.com/))  
