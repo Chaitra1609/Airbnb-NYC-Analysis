@@ -31,7 +31,7 @@ Below are some key visualizations from the **Power BI dashboard**:
   - Location-based insights (borough-wise distribution)  
   - Host and property details  
 
-## \ud83d\udcc8 SQL Queries Used  
+## SQL Queries Used  
 Below are some of the key SQL queries used in this project:  
 
 ### 1. Find the Most Popular Hosts with the Highest Number of Listings  
